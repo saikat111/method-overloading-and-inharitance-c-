@@ -1,0 +1,11 @@
+C:\Users\sorde\Desktop\New folder (2)\Overload\Overload\obj\Debug\netcoreapp3.0\Overload.csprojAssemblyReference.cache
+C:\Users\sorde\Desktop\New folder (2)\Overload\Overload\obj\Debug\netcoreapp3.0\Overload.AssemblyInfoInputs.cache
+C:\Users\sorde\Desktop\New folder (2)\Overload\Overload\obj\Debug\netcoreapp3.0\Overload.AssemblyInfo.cs
+C:\Users\sorde\Desktop\New folder (2)\Overload\Overload\bin\Debug\netcoreapp3.0\Overload.exe
+C:\Users\sorde\Desktop\New folder (2)\Overload\Overload\bin\Debug\netcoreapp3.0\Overload.deps.json
+C:\Users\sorde\Desktop\New folder (2)\Overload\Overload\bin\Debug\netcoreapp3.0\Overload.runtimeconfig.json
+C:\Users\sorde\Desktop\New folder (2)\Overload\Overload\bin\Debug\netcoreapp3.0\Overload.runtimeconfig.dev.json
+C:\Users\sorde\Desktop\New folder (2)\Overload\Overload\bin\Debug\netcoreapp3.0\Overload.dll
+C:\Users\sorde\Desktop\New folder (2)\Overload\Overload\bin\Debug\netcoreapp3.0\Overload.pdb
+C:\Users\sorde\Desktop\New folder (2)\Overload\Overload\obj\Debug\netcoreapp3.0\Overload.dll
+C:\Users\sorde\Desktop\New folder (2)\Overload\Overload\obj\Debug\netcoreapp3.0\Overload.pdb
